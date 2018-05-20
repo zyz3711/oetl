@@ -1,0 +1,6 @@
+前台：http://localhost:8080/oetl/news/news_index
+
+后台：http://localhost:8080/oetl/admin/admin.action
+
+用户名：admin
+密码：  123
